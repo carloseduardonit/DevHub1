@@ -1,0 +1,15 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sfdx": true
+  },
+  "salesforcedx-vscode-apex.java.home": "/usr/lib/jvm/java-17-openjdk-amd64",
+  "salesforcedx-vscode-core.detectConflictsAtSync": true,
+  "salesforcedx-vscode-core.enable-sobject-refresh-on-startup": true,
+  "salesforcedx-vscode-core.push-or-deploy-on-save.enabled": true,
+  "salesforcedx-vscode-core.push-or-deploy-on-save.ignoreConflictsOnPush": true,
+  "salesforcedx-vscode-core.push-or-deploy-on-save.preferDeployOnSave": true,
+  "salesforcedx-vscode-core.retrieve-test-code-coverage": true,
+  "salesforcedx-vscode-soql.experimental.validateQueries": true
+}

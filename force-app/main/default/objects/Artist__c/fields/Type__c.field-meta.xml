@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Type__c</fullName>
+    <label>Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Band</fullName>
+                <default>false</default>
+                <label>Band</label>
+            </value>
+            <value>
+                <fullName>Bass Tech</fullName>
+                <default>false</default>
+                <label>Bass Tech</label>
+            </value>
+            <value>
+                <fullName>Dancer</fullName>
+                <default>false</default>
+                <label>Dancer</label>
+            </value>
+            <value>
+                <fullName>Driver</fullName>
+                <default>false</default>
+                <label>Driver</label>
+            </value>
+            <value>
+                <fullName>Drum Tech</fullName>
+                <default>false</default>
+                <label>Drum Tech</label>
+            </value>
+            <value>
+                <fullName>Front of House</fullName>
+                <default>false</default>
+                <label>Front of House</label>
+            </value>
+            <value>
+                <fullName>Guitar Tech</fullName>
+                <default>false</default>
+                <label>Guitar Tech</label>
+            </value>
+            <value>
+                <fullName>Keyboard Tech</fullName>
+                <default>false</default>
+                <label>Keyboard Tech</label>
+            </value>
+            <value>
+                <fullName>Lighting Designer</fullName>
+                <default>false</default>
+                <label>Lighting Designer</label>
+            </value>
+            <value>
+                <fullName>Lighting Director</fullName>
+                <default>false</default>
+                <label>Lighting Director</label>
+            </value>
+            <value>
+                <fullName>Lighting Tech</fullName>
+                <default>false</default>
+                <label>Lighting Tech</label>
+            </value>
+            <value>
+                <fullName>Merchandise Crew</fullName>
+                <default>false</default>
+                <label>Merchandise Crew</label>
+            </value>
+            <value>
+                <fullName>Monitor Engineer</fullName>
+                <default>false</default>
+                <label>Monitor Engineer</label>
+            </value>
+            <value>
+                <fullName>Production Manager</fullName>
+                <default>false</default>
+                <label>Production Manager</label>
+            </value>
+            <value>
+                <fullName>Pyrotechnician</fullName>
+                <default>false</default>
+                <label>Pyrotechnician</label>
+            </value>
+            <value>
+                <fullName>Security</fullName>
+                <default>false</default>
+                <label>Security</label>
+            </value>
+            <value>
+                <fullName>Stage Managers</fullName>
+                <default>false</default>
+                <label>Stage Managers</label>
+            </value>
+            <value>
+                <fullName>Tour Manager</fullName>
+                <default>false</default>
+                <label>Tour Manager</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

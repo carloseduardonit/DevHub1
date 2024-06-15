@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>StrikethroughPricebookId</fullName>
+    <inlineHelpText>Exibe um catálogo de preços com um preço de lista original do produto e o preço com desconto do comprador.</inlineHelpText>
+    <type>Lookup</type>
+</CustomField>

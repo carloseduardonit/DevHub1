@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ExclusivityType</fullName>
+    <inlineHelpText>Para combinar a promoção com outras promoções, selecione Não. Para evitar a combinação da promoção com promoções da mesma classe, selecione Classe. Para que essa seja a única promoção usada para todo um pedido, selecione Global.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

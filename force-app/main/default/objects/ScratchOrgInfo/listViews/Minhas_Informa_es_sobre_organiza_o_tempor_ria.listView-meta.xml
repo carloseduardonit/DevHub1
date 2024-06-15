@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Minhas_Informa_es_sobre_organiza_o_tempor_ria</fullName>
+    <filterScope>Mine</filterScope>
+    <label>Minhas Informações sobre organização temporária</label>
+</ListView>

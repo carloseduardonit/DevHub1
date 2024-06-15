@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AttendeeLimit</fullName>
+    <inlineHelpText>250CX: é obrigatório especificar um limite de participante quando a Categoria do compromisso for do tipo Grupo.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>
